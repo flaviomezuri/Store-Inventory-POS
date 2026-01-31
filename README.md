@@ -43,3 +43,6 @@ The app stores data in local CSV files (products, customers, orders). On startup
 
 ## License
 MIT License (see LICENSE) 
+
+## Author
+Flavio Mëzuri
