@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/StoreInventory.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Validatable.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Displayable.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/AbstractEntity.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Person.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Product.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Customer.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/OrderItem.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Order.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/OrderStatus.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/CsvUtil.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Validators.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/IdGenerator.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/AbstractRepository.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/ProductRepository.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/CustomerRepository.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/OrderRepository.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/AppDialogs.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Algorithms.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/AppFrame.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/LoginPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/DashboardPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/ProductsPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/CustomersPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/OrdersPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Employee.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/Cashier.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/ReportsPanel.java</file>
+            <file>file:/C:/Users/User/OneDrive/Pictures/Desktop/StoreInventory/src/storeinventory/InventoryClerk.java</file>
+        </group>
+    </open-files>
+</project-private>
