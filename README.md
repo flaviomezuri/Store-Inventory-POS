@@ -42,4 +42,4 @@ The app stores data in local CSV files (products, customers, orders). On startup
 - Sorting/search are implemented as explicit algorithms (merge sort, binary search) and used in the Products screen.
 
 ## License
-MIT License (see LICENSE)
+MIT License (see LICENSE) 
